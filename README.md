@@ -18,7 +18,7 @@ pkg install git
    git clone https://github.com/JusticeTechie/ZooBot.git
    ```
    ```bash
-   cd Zoo-Bot
+   cd ZooBot
    ```
 
 2. **Instal Requirements:**
